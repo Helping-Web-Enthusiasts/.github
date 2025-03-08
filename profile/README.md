@@ -25,6 +25,6 @@ We aim to:
 3. **Create a Pull Request**: Submit your changes and our team will review them.
 
 ## Connect With Us 🌍
-- Mail: [vikas.sengar.76@gmail.com](vikas.sengar.76@gmail.com) [lala.lol.lucky@gmail.com](lala.lol.lucky@gmail.com)
+- Mail: [vikas.sengar.76@gmail.com](vikas.sengar.76@gmail.com), [lala.lol.lucky@gmail.com](lala.lol.lucky@gmail.com)
 
 We are excited to have you on board! Let's build and grow together. Happy coding! 🚀
